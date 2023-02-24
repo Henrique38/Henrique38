@@ -4,8 +4,8 @@ Sou Henrique Santana DEV Front-end com conecimento em:
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=red" alt="css-logo" />
+<img src="https://img.shields.io/badge/HTML-B71C1C?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS-330F63?&style=for-the-badge&logo=css3&logoColor=red" alt="css-logo" />
 
 Estudando no momento a tecnologia:
 
