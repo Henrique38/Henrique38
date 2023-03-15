@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Henrique, um desenvolvedor Frot end apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.instagram.com/rick_sant/"><img src="https://img.shields.io/badge/-@rick_sant_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Henrique%20Santana-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/henrique-sant/"><img src="https://img.shields.io/badge/-Henrique%20Santana-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rickeletrotec@gmail.com"><img src="https://img.shields.io/badge/-rickeletrotec@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
